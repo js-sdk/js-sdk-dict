@@ -1,6 +1,6 @@
 {
   "name": "js-sdk-dict",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple dictionary utility.",
   "main": "./lib/dict.js",
   "repository": "dicts://github.com/js-sdk/js-sdk-dict",
